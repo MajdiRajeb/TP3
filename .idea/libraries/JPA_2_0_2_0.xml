@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="JPA 2.0-2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
+      <root url="file://$PROJECT_DIR$/../persistence/persistence(EclipseLink)/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../persistence/persistence(EclipseLink)/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../persistence/persistence(EclipseLink)/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../persistence/persistence(EclipseLink)/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
